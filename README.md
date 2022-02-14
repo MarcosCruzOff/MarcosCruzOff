@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscruzoff&layout=compact&langs_count=7&theme=discord_old_blurple"/>
     
     
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcoscruzoff&repo=Ecoleta)](https://github.com/marcoscruzoff/Ecoleta)
+  
     
     
 </div>
