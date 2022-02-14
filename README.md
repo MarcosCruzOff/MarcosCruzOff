@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 Estou aprendendo que a vida de desenvolvedor é muita dedicação, pois é dificil!
 - 🤔 Estou buscando ajuda para que eu possa iniciar uma carreira de sucesso
 - 💬 Pergunte me o Barcelona de Messi um dia volta
-- 📫 How to reach me: 
+- 📫 Você pode entrar em contato comigo pelo Email ou linkedin, também apareço nas redes sociais
 - ⚡ Fun fact: Eu chorei assistindo Homem Aranha Sem volta para casa
 
 
