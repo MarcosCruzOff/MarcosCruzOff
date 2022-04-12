@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estou no mommento em busca do meu 1° emprego na area de desenvolverdor
+- 🔭 Estou no momento em busca do meu 1° emprego na área de desenvolverdor-web
 - 🌱 Estou aprendendo que a vida de desenvolvedor é muita dedicação, pois é dificil!
 - 🤔 Estou buscando ajuda para que eu possa iniciar uma carreira de sucesso
-- 💬 Pergunte me o Barcelona de Messi um dia volta
+- 💬 Pergunte me o Barcelona de Messi um dia volta?
 - 📫 Você pode entrar em contato comigo pelo Email ou linkedin, também apareço nas redes sociais
 - ⚡ Fun fact: Eu chorei assistindo Homem Aranha Sem volta para casa
 
