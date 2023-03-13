@@ -10,14 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Eu chorei assistindo Homem Aranha Sem volta para casa
 
 
-<div align="center">
-  <a href="https://github.com/marcoscruzoff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscruzoff&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscruzoff&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-    
-    
-  
-    
+   
     
 </div>
 <div align="center" style="display: inline_block"><br>
